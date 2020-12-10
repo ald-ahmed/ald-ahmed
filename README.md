@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I’m Ahmed! ✌🏽
+
+I’m a scrappy and ambitious software engineer focused on making open-source more accessible, creating technology to elevate people, and building community. I previously worked at IBM Watson, the Boston Consulting Group, and most recently Netflix. Across my work, I find great joy using software to generate insights through good code and radical open-mindedness. If I’m not coding, I’m most likely at the gym, spending time with family, or learning how to build robots (self driving vehicles). 
+
+## ⚡ Fun fact
+
+I'm looking for work. Feel free to reach me on [Linkedin](https://www.linkedin.com/in/dulaimy/)
+
 
 <!--
 **ald-ahmed/ald-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
