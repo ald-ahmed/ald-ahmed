@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/ald-ahmed/ald-ahmed/master/header.png" alt="banner that says Ahmed Al Dulaimy - Software engineer, technologist & product development enthusiast alongside a an image of Ahmed">
 
-I’m a scrappy and ambitious software engineer focused on making open-source more accessible, creating technology to elevate people, and building community. I previously worked at IBM Watson, the Boston Consulting Group, and Netflix. Today, I'm part of Tempus Labs!
+I’m a software engineer focused on creating technology to elevate people and building community. I previously worked at the Boston Consulting Group, Netflix, and Tempus Labs. Today, I'm part of DoorDash!
 
-<!--Across my work, I find great joy using software to generate insights through good code and radical open-mindedness. If I’m not coding, I’m most likely at the gym, spending time with family, or learning how to build robots (specifically, self driving 🚗.)
+<!--Across my work, I find great joy using software to generate insights through good code and radical open-mindedness. If I’m not coding, I’m most likely at the gym, spending time with family, or learning how to build robots (specifically, drones or self driving 🚗.)
 
 <!--## ⚡ Fun fact
 
