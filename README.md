@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/ald-ahmed/ald-ahmed/master/header.png" alt="banner that says Ahmed Al Dulaimy - Software engineer, technologist & product development enthusiast alongside a an image of Ahmed">
-
 I’m a software engineer focused on creating technology to elevate people and building community. I previously worked at the Boston Consulting Group and Netflix. Today, I'm part of ~~Tempus Labs~~ ~~DoorDash~~ [Runway](https://runway.com/)!
 
 Feel free to reach me on [Linkedin](https://www.linkedin.com/in/dulaimy/)
